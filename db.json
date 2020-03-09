@@ -1,0 +1,17 @@
+{
+  "controlUnitInfo": {
+    "sn": "1234", "model": "4321"
+  },
+  "setWifiClientMode": {
+    "success": true
+  },
+  "pairControlUnit": {
+    "firmwareUpdateState": false, "ssid": "vzcSSID", "password": "1234"
+  },
+  "pairControlUnitFirmwareUpdate": {
+    "firmwareUpdateState": true, "ssid": "vzcSSID", "password": "1234"
+  },
+  "controlUnitStatus": {
+    "status": "Firmware Updated"
+  }
+}
