@@ -74,7 +74,7 @@ NTP Server “NTPServ” DomainName String NTP Server Address
 Heartbeat Period “Heartbeat Period” Int Heartbear period 
 
 
---=--------------------------------------------------
+-----------------------------------------------------
 
 
 
