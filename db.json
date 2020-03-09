@@ -13,7 +13,7 @@
 	"serialNumber": "SN10000000XX", 
 	"pseudoIMEI": "F15G", 
 	"wifiBand": "F15G", 
-	"ssid": "wifissid",
+	"ssid": "wifissid"
   },
   "setWifiClientMode": {
     "success": true
