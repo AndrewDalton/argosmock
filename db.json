@@ -1,6 +1,19 @@
 {
-  "controlUnitInfo": {
-    "sn": "1234", "model": "4321"
+   "device/info": {
+	"brand": "VZC", 
+	"type": "USA", 
+	"model": "VCAM-D-1000", 
+	"hardwareVersion": "SGA0.0", 
+	"mac2_4Address": "30-65-EC-6F-C4-58", 
+	"mac5_0Address": "30-65-EC-6F-C4-58",
+	"coreFirmware": "0.0.1.0", 
+	"sdCardId": "1234", 
+	"sdCardSize": "3200000", 
+	"sdCardAvailableSpace": "3100000", 
+	"serialNumber": "SN10000000XX", 
+	"pseudoIMEI": "F15G", 
+	"wifiBand": "F15G", 
+	"ssid": "wifissid",
   },
   "setWifiClientMode": {
     "success": true
