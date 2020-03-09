@@ -18,6 +18,9 @@
   "setWifiClientMode": {
     "success": true
   },
+  "setDevClientMode": {
+    "success": true
+  },
   "pairControlUnit": {
     "firmwareUpdateState": false, "ssid": "vzcSSID", "password": "1234"
   },
